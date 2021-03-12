@@ -1,0 +1,74 @@
+{
+  "alunos": [
+    {
+      "id": 1,
+      "nome": "André",
+      "sobrenome": "Arbex",
+      "dt_nasc": "13/09/1981",
+      "professor": {
+        "id": 1,
+        "nome": "Rafael Casado"
+      }
+    },
+    {
+      "id": 2,
+      "nome": "Marcia",
+      "sobrenome": "Arbex",
+      "dt_nasc": "10/03/1977",
+      "professor": {
+        "id": 1,
+        "nome": "Rafael Casado"
+      }
+    },
+    {
+      "nome": "Victor",
+      "sobrenome": "Arbex",
+      "dt_nasc": "12/08/2010",
+      "id": 3,
+      "professor": {
+        "id": 2,
+        "nome": "Hélio Duarte"
+      }
+    },
+    {
+      "nome": "Arthur",
+      "sobrenome": "Arbex",
+      "dt_nasc": "01/08/2014",
+      "id": 4,
+      "professor": {
+        "id": 2,
+        "nome": "Hélio Duarte"
+      }
+    },
+    {
+      "nome": "Luiz",
+      "sobrenome": "Silva",
+      "dt_nasc": "01/02/1990",
+      "professor": {
+        "id": 1,
+        "nome": "Rafael Casado"
+      },
+      "id": 5
+    },
+    {
+      "nome": "Emerson",
+      "sobrenome": "Soares",
+      "dt_nasc": "01/06/1986",
+      "professor": {
+        "id": 2,
+        "nome": "Hélio Duarte"
+      },
+      "id": 6
+    }
+  ],
+  "professores": [
+    {
+      "id": 1,
+      "nome": "Rafael Casado"
+    },
+    {
+      "id": 2,
+      "nome": "Hélio Duarte"
+    }
+  ]
+}
