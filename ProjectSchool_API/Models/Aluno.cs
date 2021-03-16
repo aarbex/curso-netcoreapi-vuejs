@@ -8,7 +8,7 @@ namespace ProjectSchool_API.Models
 
         public string Sobrenome { get; set; }
 
-        public string Dt_Nasc { get; set; }
+        public string Dt_nasc { get; set; }
 
         public int ProfessorId { get; set; }
 
